@@ -128,7 +128,7 @@ section {
 /* Estiliza o elemento com o ID transform-world */
 #transform-world {
   height: 560px;
-  background: url("../images/woman-code.png") center/cover fixed;
+  background: url("../woman-code.png") center/cover fixed;
   border: 1px solid #33A8DB80;
   padding: 200px;
 }
